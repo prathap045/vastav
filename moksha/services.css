@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Alice&family=Catamaran:wght@200&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya:ital@1&family=Alice&family=Catamaran:wght@100;200&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya:ital@1&family=Alice&family=Catamaran:wght@100;200&family=Special+Elite&display=swap');
+
+
+#services{
+    /* background: url("./images/images.jpeg"); */
+    margin-right: auto;
+    margin-left: auto;
+    /* width: 250px; */
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    /* height: 100vh; */
+    border-radius: 5px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: center;
+    margin: 100px auto;
+    background: url("./images/border.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.cn{
+    font-size: 3rem;
+
+
+}
+#services img{
+    margin-top: 50px;
+  
+}
+.service_heading{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Alegreya', serif;
+    font-family: 'Alice', serif;
+    font-family: 'Special Elite', cursive;
+    color: #000;
+    font-size: 2rem;
+    margin-top: 80px;
+    /* margin-left: 200px; */
+}
+#s-txt{
+    font-size: 1.5rem;
+}
+#s-txt2{
+    font-size: 2.5rem !important;
+}
+/* p{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Alegreya', serif;
+    font-family: 'Alice', serif;
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Special Elite', cursive;
+} */
+#si{
+    background: url("./images/border.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+    border-radius: 5px;
+    border: 10x solid black !important;
+   
+}
+.scard{
+    background: url("./images/t11.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+    /* background-color: #f3c611; */
+    
+}
+#sbtn{
+    background-color: #f3c611;
+    color: black;
+    margin-bottom: 30px;
+}
+#scard-text{
+    text-align: center;
+    font-weight: 700;
+    font-family: Arial,sans-serif; 
+}
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* img sec */
+ #images-sec{
+     /* margin: 100px auto; */
+     margin-right: auto;
+     margin-left: auto;
+     /* width: 250px; */
+     box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+     /* height: 100vh; */
+     border-radius: 5px;
+     backdrop-filter: blur(2px);
+     background-color: rgba(255, 255, 255, 0.2);
+     padding: 10px;
+     text-align: center;
+     margin-top: 100px;
+     margin-bottom: 100px;
+
+ }
+
+/* Faq */
+#faq{
+    margin-right: auto;
+    margin-left: auto;
+    /* width: 250px; */
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    /* height: 100vh; */
+    border-radius: 5px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background: url("./images/border.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#faq-btn{
+    /* margin-left: 300px ; */
+    margin-top: 10px;
+}
+#ft{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-family: Arial,sans-serif; 
+}
+.faq-text{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+
+
+
+

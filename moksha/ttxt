@@ -1,0 +1,15 @@
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="p-h-t">Piercing After-care Guidelines</h1>
+                <ul class="l-p-t">
+                    <li id="l-p-d">Wash your piercing twice a day with mild soap foam</li>
+                    <li id="l-p-d">Clean your piercing with surgical spirit to save ur piercing from bacterial infection</li>
+                    <li id="l-p-d">Do not touch or move your piercing frequently</li>
+                    <li id="l-p-d"></li>
+                    <li id="l-p-d"></li>
+                    <li id="l-p-d"></li>
+                </ul>
+            </div>
+        </div>
+    </div>

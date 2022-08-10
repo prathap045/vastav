@@ -1,0 +1,86 @@
+/* media qurey for nav bar */
+
+@media only screen and (max-width: 1230px) {
+    #logo-img{
+      width: 400px;
+      height: 100px;
+    }
+    #link-space{
+      margin-left: 300px;
+      }
+  }
+  @media only screen and (max-width: 508px) {
+    #logo-img{
+      width: 250px;
+      height: 100px;
+    }
+    #link-space{
+      margin-left: 0;
+      }
+    .wrapper{
+      height: 80vh;
+    }
+    /* #c-text-m{
+      font-size: 10px;
+    } */
+      /* #nav-bar{
+        background-color: black;
+      } */
+      /* #cr-head{
+        margin-left: 20px;
+        margin-right: auto;
+      } */
+  }
+  @media only screen and (max-width: 310px) {
+    #logo-img{
+      width: 160px;
+      height: 100px;
+    }
+    .wrapper{
+      height: 80vh;
+    }
+    #link-space{
+      margin-left: 0;
+      }
+      /* #nav-bar{
+        background-color: black;
+      } */
+      /* #cr-head{
+        margin-left: 20px;
+        margin-right: auto;
+      } */
+    }
+  @media only screen and (max-width: 991px) {
+    #logo-img{
+      width: 200px;
+      height: 100px;
+    }
+    #link-space{
+      margin-left: 0;
+      }
+      .wrapper{
+        height: 80vh;
+      }
+      /* #nav-bar{
+        background-color: black;
+      } */
+  }
+  @media only screen and (max-width: 290px) {
+    #logo-img{
+      width: 160px;
+      height: 100px;
+    }
+    .wrapper{
+      height: 80vh;
+    }
+    #link-space{
+      margin-left: 0;
+      }
+      /* #nav-bar{
+        background-color: black;
+      } */
+  }
+
+
+
+
